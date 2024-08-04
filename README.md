@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td align="center"><a href="https://lukasmichalek.co.uk/" target="_blank">:globe_with_meridians:</a></td>
-        <td align="center"><a href="https://lukasmichalek.co.uk/" target="_blank">:clipboard:</a></td>
+        <td align="center"><a href="https://lukas-michalek.github.io/Lukas-Michalek-CV.pdf" target="_blank">:clipboard:</a></td>
     </tr>
 <table>
 
