@@ -85,6 +85,17 @@
 
 <br>
 
+
+
+<table>
+<tr>
+    <td align="center"><img  style="display: block; margin: 2vw; width: 39vw; height: 20vw;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-michalek&show_icons=true&locale=en&layout=compact" alt="lukas-michalek" /></td>
+    <td align="center"><img  style="display: block; margin: 2vw; width: 53vw; height: 20vw;" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-michalek" alt="lukas-michalek" /></td>
+</tr> 
+
+</table>
+
+<!--
 <table align="left">
 <tr>
         <td align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-michalek&show_icons=true&locale=en&layout=compact" alt="lukas-michalek" /></td>
@@ -95,10 +106,10 @@
 
 <table align="left"> 
 <tr>  
-    <td align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-michalek&" alt="lukas-michalek" /></td>
+    <td align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-michalek" alt="lukas-michalek" /></td>
 </tr>
 </table>
-
+-->
 
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-michalek&show_icons=true&locale=en&layout=compact" alt="lukas-michalek" /></p>
 
