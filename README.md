@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Luke</h1>
 <br>
-<h3 align="center">A passionate Full-Stack Developer from Slovakia, currently living in the UK</h3>
+<h3 align="center">A passionate Full-Stack Developer from Slovakia, currently living in the UK.</h3>
 <br>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="programmer programming" >
 <br>
